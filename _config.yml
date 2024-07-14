@@ -122,6 +122,8 @@ collections:
     permalink: /:collection/:path/
 
 main:
+  - title: "About"
+    url: /about/
   - title: "Teaching"
     url: /teaching/
 
