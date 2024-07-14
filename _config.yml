@@ -113,3 +113,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+
+# additions, 2024-07-15
+collections:
+  teaching:
+    output: true
+    permalink: /:collection/:path/
+
+main:
+  - title: "Teaching"
+    url: /teaching/
+
