@@ -1,4 +1,4 @@
 ---
 title: Deep Learning
-subtitle: Winter term 2024
+semester: Autumn semester 2024
 ---
