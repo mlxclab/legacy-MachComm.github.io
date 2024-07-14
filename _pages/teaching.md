@@ -1,8 +1,8 @@
 ---
-title: Portfolio
+title: Teaching
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /teaching/
+collection: teaching
 entries_layout: grid
 classes: wide
 ---
