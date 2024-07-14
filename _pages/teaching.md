@@ -1,7 +1,8 @@
 ---
-title: Teaching
+title: Portfolio
+layout: collection
+permalink: /portfolio/
+collection: portfolio
+entries_layout: grid
+classes: wide
 ---
-{% for course in site.teaching %}
-  <h2>{{ course.name }} - {{ course.semester }}</h2>
-  <p>{{ course.content | markdownify }}</p>
-{% endfor %}
