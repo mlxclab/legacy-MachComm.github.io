@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Machine Communication
-subtitle:
+subtitle: A research group at SDU
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   How do machines learn to communicate with humans and with other machines?
