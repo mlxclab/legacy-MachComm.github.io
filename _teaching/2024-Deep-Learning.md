@@ -1,7 +1,8 @@
 ---
 title: Deep Learning
-description: Autumn semester 2024
 ---
+
+Autumn semester 2024
 
 Useful resources:
 
