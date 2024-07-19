@@ -76,7 +76,7 @@ author:
       url: "https://scholar.google.com/citations?user=AHGGdYQAAAAJ&hl=en"
 
 footer:
-  #links:
+  links:
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
