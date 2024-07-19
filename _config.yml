@@ -133,4 +133,7 @@ collections:
 analytics:
   provider: "custom"
 
+enable_copy_code_button: true
+
+
 
