@@ -129,4 +129,8 @@ collections:
     output: true
     permalink: /:collection/:path/
 
+# additions, 2024-07-19
+analytics:
+  provider: "custom"
+
 
