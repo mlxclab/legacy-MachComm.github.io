@@ -18,7 +18,7 @@ subtitle: A research group at SDU, Odense, Denmark
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   How do machines learn to communicate with humans and with other machines?
-  Exploring the links between neural communication, language modeling, graph neural networks, and communication in multi-agent systems.
+  Exploring the links between language modeling, multi-agent systems, graph neural networks, and neural communication.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dirt
