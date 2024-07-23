@@ -4,8 +4,9 @@ categories:
   - blog
 tags:
   - intro
-image:
-  feature: /assets/images/Machine-Communication-Teaser.png
+header:
+  overlay_image: /assets/images/Machine-Communication-Teaser.png
+  caption: "High-level overview on Machine Communication"
 ---
 
 *work in progress*
